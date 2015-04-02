@@ -25,13 +25,18 @@ But what about tables and images? Well I would say about tables. read them out a
 for images I have no idea yet because of copy write issues. Maybe if there will be a public database with CW free images. But for now that is the least of my problem making the idea a reality. 
  
 
-`tl;dr`
-
-`A blog that uses other blogs to make articles`
-
-
 My info:
 
 [website](http://profoundnet.com)
 [twitter](https://twitter.com/ProfoundGames)
 [facebook](https://www.facebook.com/ProfoundGames)
+
+
+---
+
+
+
+`tl;dr`
+
+`A blog that uses other blogs to make articles`
+
