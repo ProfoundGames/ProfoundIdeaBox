@@ -28,3 +28,10 @@ for images I have no idea yet because of copy write issues. Maybe if there will 
 `tl;dr`
 
 `A blog that uses other blogs to make articles`
+
+
+My info:
+
+[website](http://profoundnet.com)
+[twitter](https://twitter.com/ProfoundGames)
+[facebook](https://www.facebook.com/ProfoundGames)
