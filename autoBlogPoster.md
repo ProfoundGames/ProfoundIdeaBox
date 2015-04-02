@@ -1,5 +1,3 @@
-Warning, haven't checked the grammar yet
-
 ## Self writing Blog ##
 
 ### The general Idea ###
